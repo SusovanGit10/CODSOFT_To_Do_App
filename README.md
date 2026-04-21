@@ -69,6 +69,8 @@ Export to CSV / JSON
 ⭐ Author
 
 Susovan Hati
+GitHub: https://github.com/SusovanGit10
+
 
 📜 License
 

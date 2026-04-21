@@ -1,2 +1,8 @@
+# Build output
 *.exe
+
+# Runtime data file
 tasks.txt
+
+# VS Code settings 
+.vscode/
